@@ -9,7 +9,7 @@
 
 //extracting the part of string
 
-let str='pepcoders'
+//let str='pepcoders'
 //we want only code
 
 //1.slice
